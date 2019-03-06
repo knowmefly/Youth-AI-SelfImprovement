@@ -1,0 +1,5 @@
+epochs:10,minibantches:128
+loss:0.707149,lr:0.010737,minibatch Accuracy: 43.617021
+test predict sum is: 0.000000,test Accuracy: 50.000000
+train predict sum is: 0.000000,train Accuracy: 51.369201
+

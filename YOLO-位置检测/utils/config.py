@@ -5,7 +5,7 @@ import os
 #配置文件
 #
 
-DATA_PATH = 'dataSet'
+DATA_PATH = 'YOLO_out/dataset'
 PASCAL_PATH = os.path.join(DATA_PATH, 'pascal_voc')
 CACHE_PATH = os.path.join(PASCAL_PATH, 'cache')
 OUTPUT_DIR = os.path.join(PASCAL_PATH, 'output')   #存放输出文件的地方，data/pascal_voc/output

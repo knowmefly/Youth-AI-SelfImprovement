@@ -1,0 +1,500 @@
+lr:0.005000,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 0 , cross entropy:0.00784991, W sum is: -30.0236
+predict sum is: 4013.000000,Testing Set Accuracy: 83.267273
+
+save model completed
+lr:0.005000,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 100 , cross entropy:0.00884852, W sum is: -30.1372
+predict sum is: 3977.000000,Testing Set Accuracy: 83.325455
+
+save model completed
+lr:0.005000,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 200 , cross entropy:0.00690249, W sum is: -30.258
+predict sum is: 3926.000000,Testing Set Accuracy: 83.400000
+
+save model completed
+lr:0.005000,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 300 , cross entropy:0.0105134, W sum is: -30.3676
+predict sum is: 3888.000000,Testing Set Accuracy: 83.450909
+
+save model completed
+lr:0.005000,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 400 , cross entropy:0.00270291, W sum is: -30.4925
+predict sum is: 3839.000000,Testing Set Accuracy: 83.532727
+
+save model completed
+lr:0.005000,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 500 , cross entropy:0.00536649, W sum is: -30.6014
+predict sum is: 3793.000000,Testing Set Accuracy: 83.612727
+
+save model completed
+lr:0.005000,train Set Accuracy: 76.666667
+handwrite: 3, iterate times: 600 , cross entropy:0.00258537, W sum is: -30.7126
+predict sum is: 3757.000000,Testing Set Accuracy: 83.663636
+
+save model completed
+lr:0.005000,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 700 , cross entropy:0.000594873, W sum is: -30.8218
+predict sum is: 3719.000000,Testing Set Accuracy: 83.732727
+
+save model completed
+lr:0.005000,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 800 , cross entropy:0.00347167, W sum is: -30.9231
+predict sum is: 3678.000000,Testing Set Accuracy: 83.792727
+
+save model completed
+lr:0.005000,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 900 , cross entropy:0.00395935, W sum is: -31.0412
+predict sum is: 3630.000000,Testing Set Accuracy: 83.865455
+
+save model completed
+lr:0.005000,train Set Accuracy: 76.666667
+handwrite: 3, iterate times: 1000 , cross entropy:0.00200005, W sum is: -31.1285
+predict sum is: 3599.000000,Testing Set Accuracy: 83.918182
+
+save model completed
+lr:0.005000,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 1100 , cross entropy:0.00416623, W sum is: -31.2315
+predict sum is: 3563.000000,Testing Set Accuracy: 83.976364
+
+save model completed
+lr:0.005000,train Set Accuracy: 73.333333
+handwrite: 3, iterate times: 1200 , cross entropy:0.00158214, W sum is: -31.3355
+predict sum is: 3528.000000,Testing Set Accuracy: 84.036364
+
+save model completed
+lr:0.005000,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 1300 , cross entropy:0.00257544, W sum is: -31.4269
+predict sum is: 3496.000000,Testing Set Accuracy: 84.094545
+
+save model completed
+lr:0.005000,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 1400 , cross entropy:0.00241742, W sum is: -31.5112
+predict sum is: 3461.000000,Testing Set Accuracy: 84.150909
+
+save model completed
+lr:0.005000,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 1500 , cross entropy:0.00312123, W sum is: -31.6123
+predict sum is: 3420.000000,Testing Set Accuracy: 84.210909
+
+save model completed
+lr:0.005000,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 1600 , cross entropy:0.000655264, W sum is: -31.7087
+predict sum is: 3377.000000,Testing Set Accuracy: 84.281818
+
+save model completed
+lr:0.005000,train Set Accuracy: 70.000000
+handwrite: 3, iterate times: 1700 , cross entropy:0.0137819, W sum is: -31.809
+predict sum is: 3336.000000,Testing Set Accuracy: 84.356364
+
+save model completed
+lr:0.005000,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 1800 , cross entropy:0.0140665, W sum is: -31.9071
+predict sum is: 3301.000000,Testing Set Accuracy: 84.420000
+
+save model completed
+lr:0.004900,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 1900 , cross entropy:0.00133111, W sum is: -31.9992
+predict sum is: 3267.000000,Testing Set Accuracy: 84.478182
+
+save model completed
+lr:0.004900,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 2000 , cross entropy:0.00394341, W sum is: -32.0919
+predict sum is: 3225.000000,Testing Set Accuracy: 84.543636
+
+save model completed
+lr:0.004900,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 2100 , cross entropy:0.00493484, W sum is: -32.1786
+predict sum is: 3194.000000,Testing Set Accuracy: 84.600000
+
+save model completed
+lr:0.004900,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 2200 , cross entropy:0.00377715, W sum is: -32.2751
+predict sum is: 3151.000000,Testing Set Accuracy: 84.670909
+
+save model completed
+lr:0.004900,train Set Accuracy: 73.333333
+handwrite: 3, iterate times: 2300 , cross entropy:0.00534485, W sum is: -32.3609
+predict sum is: 3120.000000,Testing Set Accuracy: 84.720000
+
+save model completed
+lr:0.004900,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 2400 , cross entropy:0.000144662, W sum is: -32.4414
+predict sum is: 3097.000000,Testing Set Accuracy: 84.758182
+
+save model completed
+lr:0.004900,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 2500 , cross entropy:0.00315677, W sum is: -32.5226
+predict sum is: 3068.000000,Testing Set Accuracy: 84.810909
+
+save model completed
+lr:0.004900,train Set Accuracy: 76.666667
+handwrite: 3, iterate times: 2600 , cross entropy:0.00507461, W sum is: -32.6121
+predict sum is: 3037.000000,Testing Set Accuracy: 84.849091
+
+save model completed
+lr:0.004900,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 2700 , cross entropy:0.00589659, W sum is: -32.7005
+predict sum is: 3011.000000,Testing Set Accuracy: 84.892727
+
+save model completed
+lr:0.004900,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 2800 , cross entropy:0.00329042, W sum is: -32.7824
+predict sum is: 2980.000000,Testing Set Accuracy: 84.945455
+
+save model completed
+lr:0.004900,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 2900 , cross entropy:0.000360762, W sum is: -32.8615
+predict sum is: 2944.000000,Testing Set Accuracy: 85.007273
+
+save model completed
+lr:0.004900,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 3000 , cross entropy:0.00592479, W sum is: -32.9471
+predict sum is: 2915.000000,Testing Set Accuracy: 85.060000
+
+save model completed
+lr:0.004900,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 3100 , cross entropy:0.000679159, W sum is: -33.0274
+predict sum is: 2883.000000,Testing Set Accuracy: 85.100000
+
+save model completed
+lr:0.004900,train Set Accuracy: 96.666667
+handwrite: 3, iterate times: 3200 , cross entropy:0.00277538, W sum is: -33.1007
+predict sum is: 2859.000000,Testing Set Accuracy: 85.132727
+
+save model completed
+lr:0.004900,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 3300 , cross entropy:0.00275093, W sum is: -33.183
+predict sum is: 2832.000000,Testing Set Accuracy: 85.170909
+
+save model completed
+lr:0.004900,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 3400 , cross entropy:0.00621493, W sum is: -33.267
+predict sum is: 2802.000000,Testing Set Accuracy: 85.218182
+
+save model completed
+lr:0.004900,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 3500 , cross entropy:0.0133804, W sum is: -33.3625
+predict sum is: 2765.000000,Testing Set Accuracy: 85.274545
+
+save model completed
+lr:0.004900,train Set Accuracy: 76.666667
+handwrite: 3, iterate times: 3600 , cross entropy:0.0080709, W sum is: -33.4357
+predict sum is: 2737.000000,Testing Set Accuracy: 85.318182
+
+save model completed
+lr:0.004802,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 3700 , cross entropy:0.0149312, W sum is: -33.5174
+predict sum is: 2720.000000,Testing Set Accuracy: 85.334545
+
+save model completed
+lr:0.004802,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 3800 , cross entropy:0.00605463, W sum is: -33.5985
+predict sum is: 2691.000000,Testing Set Accuracy: 85.380000
+
+save model completed
+lr:0.004802,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 3900 , cross entropy:0.00344962, W sum is: -33.6724
+predict sum is: 2676.000000,Testing Set Accuracy: 85.403636
+
+save model completed
+lr:0.004802,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 4000 , cross entropy:0.00031932, W sum is: -33.7472
+predict sum is: 2648.000000,Testing Set Accuracy: 85.447273
+
+save model completed
+lr:0.004802,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 4100 , cross entropy:0.000331162, W sum is: -33.824
+predict sum is: 2628.000000,Testing Set Accuracy: 85.476364
+
+save model completed
+lr:0.004802,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 4200 , cross entropy:0.00336654, W sum is: -33.8931
+predict sum is: 2598.000000,Testing Set Accuracy: 85.530909
+
+save model completed
+lr:0.004802,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 4300 , cross entropy:0.000669532, W sum is: -33.9686
+predict sum is: 2570.000000,Testing Set Accuracy: 85.570909
+
+save model completed
+lr:0.004802,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 4400 , cross entropy:0.0022306, W sum is: -34.0375
+predict sum is: 2555.000000,Testing Set Accuracy: 85.590909
+
+save model completed
+lr:0.004802,train Set Accuracy: 96.666667
+handwrite: 3, iterate times: 4500 , cross entropy:0.000174136, W sum is: -34.1112
+predict sum is: 2535.000000,Testing Set Accuracy: 85.627273
+
+save model completed
+lr:0.004802,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 4600 , cross entropy:0.00223457, W sum is: -34.188
+predict sum is: 2514.000000,Testing Set Accuracy: 85.654545
+
+save model completed
+lr:0.004802,train Set Accuracy: 96.666667
+handwrite: 3, iterate times: 4700 , cross entropy:0.0060432, W sum is: -34.2594
+predict sum is: 2496.000000,Testing Set Accuracy: 85.687273
+
+save model completed
+lr:0.004802,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 4800 , cross entropy:0.00289266, W sum is: -34.325
+predict sum is: 2467.000000,Testing Set Accuracy: 85.729091
+
+save model completed
+lr:0.004802,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 4900 , cross entropy:0.00374683, W sum is: -34.3956
+predict sum is: 2445.000000,Testing Set Accuracy: 85.765455
+
+save model completed
+lr:0.004802,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 5000 , cross entropy:0.000198948, W sum is: -34.4565
+predict sum is: 2427.000000,Testing Set Accuracy: 85.798182
+
+save model completed
+lr:0.004802,train Set Accuracy: 76.666667
+handwrite: 3, iterate times: 5100 , cross entropy:0.00172751, W sum is: -34.5141
+predict sum is: 2417.000000,Testing Set Accuracy: 85.812727
+
+save model completed
+lr:0.004802,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 5200 , cross entropy:0.00443178, W sum is: -34.5705
+predict sum is: 2395.000000,Testing Set Accuracy: 85.849091
+
+save model completed
+lr:0.004802,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 5300 , cross entropy:0.00320849, W sum is: -34.6412
+predict sum is: 2380.000000,Testing Set Accuracy: 85.876364
+
+save model completed
+lr:0.004802,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 5400 , cross entropy:0.00980043, W sum is: -34.7018
+predict sum is: 2368.000000,Testing Set Accuracy: 85.894545
+
+save model completed
+lr:0.004706,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 5500 , cross entropy:0.000311846, W sum is: -34.7612
+predict sum is: 2348.000000,Testing Set Accuracy: 85.923636
+
+save model completed
+lr:0.004706,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 5600 , cross entropy:0.00121651, W sum is: -34.8251
+predict sum is: 2332.000000,Testing Set Accuracy: 85.952727
+
+save model completed
+lr:0.004706,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 5700 , cross entropy:0.00469683, W sum is: -34.8891
+predict sum is: 2317.000000,Testing Set Accuracy: 85.976364
+
+save model completed
+lr:0.004706,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 5800 , cross entropy:0.00590221, W sum is: -34.951
+predict sum is: 2296.000000,Testing Set Accuracy: 86.010909
+
+save model completed
+lr:0.004706,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 5900 , cross entropy:0.0019651, W sum is: -35.0147
+predict sum is: 2279.000000,Testing Set Accuracy: 86.038182
+
+save model completed
+lr:0.004706,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 6000 , cross entropy:0.000570853, W sum is: -35.0681
+predict sum is: 2270.000000,Testing Set Accuracy: 86.054545
+
+save model completed
+lr:0.004706,train Set Accuracy: 100.000000
+handwrite: 3, iterate times: 6100 , cross entropy:0.000506948, W sum is: -35.1353
+predict sum is: 2253.000000,Testing Set Accuracy: 86.085455
+
+save model completed
+lr:0.004706,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 6200 , cross entropy:0.00251684, W sum is: -35.199
+predict sum is: 2240.000000,Testing Set Accuracy: 86.105455
+
+save model completed
+lr:0.004706,train Set Accuracy: 73.333333
+handwrite: 3, iterate times: 6300 , cross entropy:0.0108297, W sum is: -35.2625
+predict sum is: 2219.000000,Testing Set Accuracy: 86.140000
+
+save model completed
+lr:0.004706,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 6400 , cross entropy:0.00110465, W sum is: -35.3232
+predict sum is: 2201.000000,Testing Set Accuracy: 86.172727
+
+save model completed
+lr:0.004706,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 6500 , cross entropy:0.00341768, W sum is: -35.3807
+predict sum is: 2189.000000,Testing Set Accuracy: 86.187273
+
+save model completed
+lr:0.004706,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 6600 , cross entropy:0.0110047, W sum is: -35.4364
+predict sum is: 2178.000000,Testing Set Accuracy: 86.207273
+
+save model completed
+lr:0.004706,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 6700 , cross entropy:0.000690756, W sum is: -35.4944
+predict sum is: 2161.000000,Testing Set Accuracy: 86.238182
+
+save model completed
+lr:0.004706,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 6800 , cross entropy:0.00199673, W sum is: -35.5553
+predict sum is: 2145.000000,Testing Set Accuracy: 86.260000
+
+save model completed
+lr:0.004706,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 6900 , cross entropy:0.000282165, W sum is: -35.6172
+predict sum is: 2128.000000,Testing Set Accuracy: 86.283636
+
+save model completed
+lr:0.004706,train Set Accuracy: 96.666667
+handwrite: 3, iterate times: 7000 , cross entropy:0.000250952, W sum is: -35.675
+predict sum is: 2111.000000,Testing Set Accuracy: 86.314545
+
+save model completed
+lr:0.004706,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 7100 , cross entropy:9.11036e-05, W sum is: -35.7386
+predict sum is: 2092.000000,Testing Set Accuracy: 86.349091
+
+save model completed
+lr:0.004706,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 7200 , cross entropy:0.000537506, W sum is: -35.7952
+predict sum is: 2080.000000,Testing Set Accuracy: 86.370909
+
+save model completed
+lr:0.004706,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 7300 , cross entropy:0.00261583, W sum is: -35.8504
+predict sum is: 2065.000000,Testing Set Accuracy: 86.390909
+
+save model completed
+lr:0.004612,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 7400 , cross entropy:0.000145719, W sum is: -35.9016
+predict sum is: 2054.000000,Testing Set Accuracy: 86.410909
+
+save model completed
+lr:0.004612,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 7500 , cross entropy:0.00459513, W sum is: -35.9629
+predict sum is: 2047.000000,Testing Set Accuracy: 86.420000
+
+save model completed
+lr:0.004612,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 7600 , cross entropy:0.000959192, W sum is: -36.016
+predict sum is: 2038.000000,Testing Set Accuracy: 86.436364
+
+save model completed
+lr:0.004612,train Set Accuracy: 73.333333
+handwrite: 3, iterate times: 7700 , cross entropy:0.00834722, W sum is: -36.0704
+predict sum is: 2028.000000,Testing Set Accuracy: 86.447273
+
+save model completed
+lr:0.004612,train Set Accuracy: 73.333333
+handwrite: 3, iterate times: 7800 , cross entropy:0.0110298, W sum is: -36.1247
+predict sum is: 2018.000000,Testing Set Accuracy: 86.465455
+
+save model completed
+lr:0.004612,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 7900 , cross entropy:0.00332797, W sum is: -36.1803
+predict sum is: 2003.000000,Testing Set Accuracy: 86.489091
+
+save model completed
+lr:0.004612,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 8000 , cross entropy:0.000868894, W sum is: -36.2304
+predict sum is: 1994.000000,Testing Set Accuracy: 86.501818
+
+save model completed
+lr:0.004612,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 8100 , cross entropy:7.55461e-05, W sum is: -36.2855
+predict sum is: 1982.000000,Testing Set Accuracy: 86.512727
+
+save model completed
+lr:0.004612,train Set Accuracy: 96.666667
+handwrite: 3, iterate times: 8200 , cross entropy:0.00390265, W sum is: -36.3347
+predict sum is: 1974.000000,Testing Set Accuracy: 86.520000
+
+save model completed
+lr:0.004612,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 8300 , cross entropy:0.000406568, W sum is: -36.3882
+predict sum is: 1958.000000,Testing Set Accuracy: 86.549091
+
+save model completed
+lr:0.004612,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 8400 , cross entropy:0.000359466, W sum is: -36.4338
+predict sum is: 1954.000000,Testing Set Accuracy: 86.556364
+
+save model completed
+lr:0.004612,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 8500 , cross entropy:0.00454668, W sum is: -36.4919
+predict sum is: 1940.000000,Testing Set Accuracy: 86.578182
+
+save model completed
+lr:0.004612,train Set Accuracy: 86.666667
+handwrite: 3, iterate times: 8600 , cross entropy:0.0041316, W sum is: -36.5427
+predict sum is: 1929.000000,Testing Set Accuracy: 86.598182
+
+save model completed
+lr:0.004612,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 8700 , cross entropy:0.000513839, W sum is: -36.5871
+predict sum is: 1919.000000,Testing Set Accuracy: 86.616364
+
+save model completed
+lr:0.004612,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 8800 , cross entropy:0.00865078, W sum is: -36.6426
+predict sum is: 1904.000000,Testing Set Accuracy: 86.640000
+
+save model completed
+lr:0.004612,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 8900 , cross entropy:0.010704, W sum is: -36.6939
+predict sum is: 1895.000000,Testing Set Accuracy: 86.652727
+
+save model completed
+lr:0.004612,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 9000 , cross entropy:0.00264389, W sum is: -36.7488
+predict sum is: 1882.000000,Testing Set Accuracy: 86.676364
+
+save model completed
+lr:0.004612,train Set Accuracy: 76.666667
+handwrite: 3, iterate times: 9100 , cross entropy:0.0122039, W sum is: -36.7999
+predict sum is: 1866.000000,Testing Set Accuracy: 86.701818
+
+save model completed
+lr:0.004520,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 9200 , cross entropy:0.0129468, W sum is: -36.8452
+predict sum is: 1851.000000,Testing Set Accuracy: 86.729091
+
+save model completed
+lr:0.004520,train Set Accuracy: 96.666667
+handwrite: 3, iterate times: 9300 , cross entropy:0.00277204, W sum is: -36.8909
+predict sum is: 1845.000000,Testing Set Accuracy: 86.736364
+
+save model completed
+lr:0.004520,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 9400 , cross entropy:0.000835247, W sum is: -36.9435
+predict sum is: 1833.000000,Testing Set Accuracy: 86.750909
+
+save model completed
+lr:0.004520,train Set Accuracy: 93.333333
+handwrite: 3, iterate times: 9500 , cross entropy:0.00114344, W sum is: -36.9893
+predict sum is: 1826.000000,Testing Set Accuracy: 86.763636
+
+save model completed
+lr:0.004520,train Set Accuracy: 90.000000
+handwrite: 3, iterate times: 9600 , cross entropy:0.00209799, W sum is: -37.0383
+predict sum is: 1817.000000,Testing Set Accuracy: 86.780000
+
+save model completed
+lr:0.004520,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 9700 , cross entropy:0.00160633, W sum is: -37.0846
+predict sum is: 1809.000000,Testing Set Accuracy: 86.787273
+
+save model completed
+lr:0.004520,train Set Accuracy: 83.333333
+handwrite: 3, iterate times: 9800 , cross entropy:0.00698803, W sum is: -37.1285
+predict sum is: 1794.000000,Testing Set Accuracy: 86.814545
+
+save model completed
+lr:0.004520,train Set Accuracy: 80.000000
+handwrite: 3, iterate times: 9900 , cross entropy:0.00260196, W sum is: -37.1754
+predict sum is: 1779.000000,Testing Set Accuracy: 86.838182
+
+save model completed

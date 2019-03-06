@@ -1,0 +1,16 @@
+epochs:1 takes time :639.7172432010121 s
+epochs:2 takes time :63.229434960788126 s
+epochs:3 takes time :63.7591489699239 s
+epochs:4 takes time :64.94652452541186 s
+epochs:5 takes time :64.14991099485906 s
+epochs:6 takes time :63.97023381610063 s
+epochs:7 takes time :64.34520864322121 s
+epochs:8 takes time :64.00425291706983 s
+epochs:9 takes time :64.09231159615888 s
+epochs:10 takes time :64.498523126897 s
+epochs:10,minibantches:128
+loss:0.072694,lr:0.010737,minibatch Accuracy: 89.361702
+test predict sum is: 2312.000000,test Accuracy: 91.520000
+train predict sum is: 18121.000000,train Accuracy: 92.238509
+
+total epochs:10 takes time :1273.918856883661 s

@@ -1,0 +1,11 @@
+lr:0.005000,train Set Accuracy: 33.333333
+handwrite: 0, iterate times: 0 , cross entropy:0.146539, W sum is: 8.39286
+predict sum is: 36479.000000,Testing Set Accuracy: 37.823636
+
+save model completed
+lr:0.005000,train Set Accuracy: 6.666667
+handwrite: 0, iterate times: 100 , cross entropy:nan, W sum is: nan
+predict sum is: 55000.000000,Testing Set Accuracy: 9.898182
+
+save model completed
+is nan, stop
